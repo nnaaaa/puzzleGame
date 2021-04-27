@@ -1,0 +1,35 @@
+#wrapper{
+  position: absolute;
+  top: 0.5rem;
+  left:0.5rem;
+
+  display:flex;
+  flex-wrap: wrap;
+}
+
+
+button{
+  padding:0.5rem 1rem;
+  border-radius: 5%;
+  background:#00d0ff;
+  box-shadow: 0 0 5px rgba(0,0,0,0.4);
+
+  font-weight: 600;
+  font-family: monospace;
+  font-size:1rem;
+  color:black;
+
+  text-decoration: none;
+  border: none;
+  outline: none;
+
+}
+
+span{
+  margin-left: 1rem;
+
+  padding: 0;
+  border: none;
+  outline: none;  
+}
+

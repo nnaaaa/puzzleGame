@@ -1,0 +1,18 @@
+
+#start{
+  width:100vw;
+  height:100vh;
+
+  position:relative;
+
+  display:flex;
+  justify-content: center;
+  align-items: center;
+
+  background:linear-gradient(315deg,#4dff03,#00d0ff)
+}
+#start.start {
+  left:0;
+}
+
+
