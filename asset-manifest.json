@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/puzzleGame/static/css/main.8516b4df.chunk.css",
+    "main.js": "/puzzleGame/static/js/main.cb97524d.chunk.js",
+    "main.js.map": "/puzzleGame/static/js/main.cb97524d.chunk.js.map",
+    "runtime-main.js": "/puzzleGame/static/js/runtime-main.5635d4e8.js",
+    "runtime-main.js.map": "/puzzleGame/static/js/runtime-main.5635d4e8.js.map",
+    "static/css/2.fe708519.chunk.css": "/puzzleGame/static/css/2.fe708519.chunk.css",
+    "static/js/2.8eb7f5ed.chunk.js": "/puzzleGame/static/js/2.8eb7f5ed.chunk.js",
+    "static/js/2.8eb7f5ed.chunk.js.map": "/puzzleGame/static/js/2.8eb7f5ed.chunk.js.map",
+    "static/js/3.a93a065f.chunk.js": "/puzzleGame/static/js/3.a93a065f.chunk.js",
+    "static/js/3.a93a065f.chunk.js.map": "/puzzleGame/static/js/3.a93a065f.chunk.js.map",
+    "index.html": "/puzzleGame/index.html",
+    "static/css/2.fe708519.chunk.css.map": "/puzzleGame/static/css/2.fe708519.chunk.css.map",
+    "static/css/main.8516b4df.chunk.css.map": "/puzzleGame/static/css/main.8516b4df.chunk.css.map",
+    "static/js/2.8eb7f5ed.chunk.js.LICENSE.txt": "/puzzleGame/static/js/2.8eb7f5ed.chunk.js.LICENSE.txt",
+    "static/media/aurelionSol.cdc0da19.png": "/puzzleGame/static/media/aurelionSol.cdc0da19.png",
+    "static/media/doremon.5b7f91f8.jpg": "/puzzleGame/static/media/doremon.5b7f91f8.jpg",
+    "static/media/huanrose.3ec9d331.jpg": "/puzzleGame/static/media/huanrose.3ec9d331.jpg",
+    "static/media/luffy.b6f186f5.jpg": "/puzzleGame/static/media/luffy.b6f186f5.jpg",
+    "static/media/nobita.7f03c8a1.jpg": "/puzzleGame/static/media/nobita.7f03c8a1.jpg",
+    "static/media/sena.35042a42.jpg": "/puzzleGame/static/media/sena.35042a42.jpg",
+    "static/media/sunFlower.0dec8add.jpg": "/puzzleGame/static/media/sunFlower.0dec8add.jpg",
+    "static/media/thanhphuong.f70d2b96.jpg": "/puzzleGame/static/media/thanhphuong.f70d2b96.jpg",
+    "static/media/yasuo.ca6288ab.jpg": "/puzzleGame/static/media/yasuo.ca6288ab.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5635d4e8.js",
+    "static/css/2.fe708519.chunk.css",
+    "static/js/2.8eb7f5ed.chunk.js",
+    "static/css/main.8516b4df.chunk.css",
+    "static/js/main.cb97524d.chunk.js"
+  ]
+}
